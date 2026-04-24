@@ -8,7 +8,7 @@
 1. Open VS Code
 2. Click on "File" → "Open Folder"
 3. Select your project folder
-
+4. change cogs/utils/config.py and .env
 ## ✅ Step 3: Open Terminal
 - In VS Code:
   Terminal → New Terminal
